@@ -1,0 +1,30 @@
+.container{
+    background-color: greenyellow;
+}
+.row{
+    padding: 2rem;
+    
+}
+.card-items{
+    font-size: 2rems;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.price{
+    font-size:2rem;
+    display:flex;
+    align-items: center;
+    color: #3f3f3f;
+
+    
+}
+
+.term{
+    font-size: 1rem;
+    color:#777;
+    margin-left: 0.5rem;
+}
+.flex-btn{
+    display:flex;
+    justify-content: space-between;
+}

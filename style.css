@@ -1,0 +1,39 @@
+.container{
+    background-color: whitesmoke;
+    padding: 2rem;
+}
+body {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.4;
+}
+
+span i img{
+    width: 15px;
+    height: 15px;
+}
+.lightBlue{
+    background-color: var(--light-blue);
+    padding: 10px;
+    border-radius: 50%;
+}
+.lightGreen{
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 50%;
+}
+.lightRed{
+    background-color: var(--light-red--);
+    padding: 10px;
+    border-radius: 50%;
+}
+.price{
+    display:flex;
+    align-items: center;
+    font-size:2rem;
+}
+.term{
+    font-size:1rem;
+    color: grey;
+    margin-left: 4px;
+
+}
